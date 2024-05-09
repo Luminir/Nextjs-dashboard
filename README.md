@@ -18,4 +18,6 @@ We suggest that you begin by typing:
 # cd nextjs-dashboard
 # npm run dev
 
-***NOTE*** Sorry, I created the same DB 2 times!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+***NOTE*** Sorry, I created the same DB 3 times!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Email: user@nextmail.com
+Password: 123456
